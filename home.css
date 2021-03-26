@@ -1,0 +1,35 @@
+body {
+  height: 100%;
+  background-color: lightgray;
+}
+
+#slider img {
+  opacity: 0.8;
+}
+
+#collapsibleNavId li {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+r-icon {
+  padding: 20px;
+}
+
+#service-content {
+  width: 80%;
+}
+#service .card {
+  margin: 20px;
+  padding: 0;
+}
+#contact-end {
+  background-color: black;
+  color: wheat;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#contact-end div {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
